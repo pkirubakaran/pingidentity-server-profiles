@@ -28,7 +28,7 @@ objectClass: person
 objectClass: organizationalPerson
 objectClass: inetOrgPerson
 objectClass: pf-connected-identities
-sn: Tancordo
+sn: Pavithra
 cn: Sidonia Tancordo
 uid: user.2
 userPassword: 2FederateM0re
